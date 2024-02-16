@@ -5,7 +5,7 @@
 这是一个定制的OpenWrt系统
 ---
 
-本固件由[kiddin9](https://github.com/kiddin9)提供的“一分钟在线编译定制专属固件”服务生成的定制固件，仓库地址：[点击跳转](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)
+本固件由[kiddin9](https://github.com/kiddin9)提供的“一分钟在线编译定制专属固件”服务生成，仓库地址：[点击跳转](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)
 
 <br>
 默认登录地址：192.168.0.233
